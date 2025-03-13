@@ -37,7 +37,10 @@ Because the program must individually download all files via the web, it can tak
 
 The instructions for running this program are as follows: 
 
-1.) Open the program in google colab.
+1.) Open the Summary_CSV_Compiler.ipynb in Google Colab. The script is posted in the
+repository, but a link to a version you can use directly is here: 
+
+https://colab.research.google.com/drive/1WHm7P4cXpyX6ZtyLOw_uBmckO7ECjdkx?usp=sharing
 
 2.) Install the required packages: requests, pandas, gdown, google-colab, os, time, re,
 and shutil. (os, time, re, and shutil are part of the standard python library,
