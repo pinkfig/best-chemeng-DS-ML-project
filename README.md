@@ -83,6 +83,12 @@ AIzaSyD0-kbdS3GOuRiKcbqXOzYQzlHEZ580qJI
 information. Note that this may take a while, often ~20 minutes. After the program is done,
 you will have a summary.csv file that you can use to upload to the modelling python script.
 
+For users to customize this program to their own dataset, they simply need to upload their
+own dataset to google drive in a publically shared folder, create a Google Cloud
+API Key, and upload the respective file link and API Key when prompted by the program.
+Column header names will need to match those used in the program to work, and cyclic
+aging must be represented by the value of 2.
+
 =======================================================================================
 MACHINE LEARNING MODEL
 =======================================================================================
