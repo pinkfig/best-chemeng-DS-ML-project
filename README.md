@@ -134,9 +134,11 @@ This function is totally optional. You can terminate the program at this point i
 wanted to see model evaluation data. If you want to interact with the model, follow
 the prompts that appear in the outputs. Firstly, you can enter the average aging temperature
 of your hypothetical battery. Our dataset had values from 0-40 degrees. Next, enter
-the averaage charging rate (in terms of C rate). Next, enter the average discharge rate
-(in terms of C rate). Note that all values should be numerical and positive. Next,
-enter the minimum state of charge. Finally, enter the maximum state of charge.
+the averaage charging rate (in terms of C rate, generally 0.33-1.67 in our model). Next, enter the average discharge rate
+(in terms of C rate, generally 0.33-1.67 in our model). Note that all values should be numerical and positive. Next,
+enter the minimum state of charge (this is a value from 0-100, think about it as "to what percent charge to you usually
+discharge your battery?). Finally, enter the maximum state of charge (this is a value from 0-100, think about it as "to what
+percent charge do you usually charge your battery?).
 
 8.) The model will output the predicted number of cycles ntil EOL,
 the RMSE, and tell you how far off your predicted EOL could be based on the RMSE.
