@@ -73,9 +73,9 @@ https://drive.google.com/drive/folders/1r25kGjtFxS0VYu4mkrVXjF9MHjnRd5gm?usp=dri
 7.) The program will then prompt you:
 "Enter your Google API key (folder must be publicly shared):"
 
-Enter this key:
+Enter the key found in this document:
 
-AIzaSyD0-kbdS3GOuRiKcbqXOzYQzlHEZ580qJI
+https://docs.google.com/document/d/14ky5iUAymbxXDKsvTffZ3x1GaaD-TFK2TLW0Bqpc6ec/edit?usp=sharing
 
 8.) The program will run by downloading all 228 files and then processing them for necessary
 information. Note that this may take a while, often ~20 minutes. After the program is done,
