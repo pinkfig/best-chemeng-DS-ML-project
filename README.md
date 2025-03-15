@@ -123,8 +123,11 @@ are seeing a 404 error, go back to GitHub and generate a new Raw.
 4.) After hitting enter, wait for some processing to occur. This may take a minute or two.
 
 5.) Eventually, you will be prompted to enter the input values. Please note:
+
     - Aging temperature is generally in the range of -20 to 80 degrees C.
+    
     - Charge/discharge C-rate is generally in the range of 0.1 to 3.
+    
     - SoC window should be either "type 1", "type 2", or "type 3" (corresponding SoC window
       is listed in the prompt).
 
